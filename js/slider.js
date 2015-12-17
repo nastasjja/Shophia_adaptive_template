@@ -1,7 +1,7 @@
 $(document).ready(function() {
 	var width = function(){
-		if (screen.width>1450){
-			return 1450;
+		if (screen.width>1440){
+			return 1440;
 		}
 		else{return screen.width}
 	};
